@@ -1,0 +1,1 @@
+java -jar simusimple-0.0.1-SNAPSHOT.jar -jar-with-dependencies.jar
